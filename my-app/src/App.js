@@ -8,7 +8,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Edits <code>src/App.js</code> and save to reload.
-        </p>
+        </p>  
         <a
           className="App-link"
           href="https://reactjs.org"
@@ -17,9 +17,11 @@ function App() {
         >
           Learn React
         </a>
+        <div>
+          {/* Jie's Git Test */}
+        </div>
       </header>
     </div>
   );
 }
-
 export default App;
